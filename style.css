@@ -94,7 +94,6 @@ body{
     transition-property: all;
     transition-timing-function: ease;
     transition-duration: 0.3s;
-    transform-style: initial;
     
 }
 
